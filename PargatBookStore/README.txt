@@ -12,3 +12,10 @@ removed options for default identy
 Tested the app...ran it good...tested links
 action items
 -modify the navigation
+-update the copyright...from 'static''to''dynamic':)
+
+1516
+modified the default welcome message...tested..
+got error... the project is not running on browser(google chrome,firefox,microsoft edge)
+wow its running on firefox
+review the route pattern in startup.cs
