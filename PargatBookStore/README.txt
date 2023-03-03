@@ -25,3 +25,10 @@ review the route pattern in startup.cs
 clone the repository PargatBookStore in Github..test it ... done
 1525
 Created the .md File and pulled it.
+
+1547
+ceeated the README.md file in the gitHub 
+1551
+and pull it in VS Codes
+
+OHH.. commit is not pulling to the github
