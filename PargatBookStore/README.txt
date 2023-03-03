@@ -19,3 +19,9 @@ modified the default welcome message...tested..
 got error... the project is not running on browser(google chrome,firefox,microsoft edge)
 wow its running on firefox
 review the route pattern in startup.cs
+
+--> 2023-02-03 <--
+1510
+clone the repository PargatBookStore in Github..test it ... done
+1525
+Created the .md File and pulled it.
