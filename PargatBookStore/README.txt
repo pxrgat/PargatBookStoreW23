@@ -31,4 +31,6 @@ ceeated the README.md file in the gitHub
 1551
 and pull it in VS Codes
 
-OHH.. commit is not pulling to the github
+OHH.. commit was not pushing to the github
+Then make some changes on GIt setting   (Git/Settings/Git Repository settings) inside this
+make the Prune remote Branches during fetch andRebase local branch when pullling both  set true. 
