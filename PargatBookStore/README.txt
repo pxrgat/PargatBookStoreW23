@@ -45,3 +45,5 @@ Download the Bootstrap font(LUX) from google
 Replace the Bootstrap.css into the bootstrap.css file 
 1447
 edit the _layout.cshtml file 
+1500
+remove the text-dark from _LoginPartial.cshtml 
