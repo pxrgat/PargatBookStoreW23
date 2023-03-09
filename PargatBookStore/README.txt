@@ -34,3 +34,14 @@ and pull it in VS Codes
 OHH.. commit was not pushing to the github
 Then make some changes on GIt setting   (Git/Settings/Git Repository settings) inside this
 make the Prune remote Branches during fetch andRebase local branch when pullling both  set true. 
+
+*****2023-02-09*****
+1420
+open the project and clone the repository on GitHub
+1422
+Download the Bootstrap font(LUX) from google 
+
+1442
+Replace the Bootstrap.css into the bootstrap.css file 
+1447
+edit the _layout.cshtml file 
