@@ -47,3 +47,6 @@ Replace the Bootstrap.css into the bootstrap.css file
 edit the _layout.cshtml file 
 1500
 remove the text-dark from _LoginPartial.cshtml 
+2015
+Add dropdown in _Layout.cshtml
+
