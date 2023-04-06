@@ -56,3 +56,5 @@ Add dropdown in _Layout.cshtml
 add a new project for testing wowww!!! its working
 1940
 add a new project as PargatsBooks.DataAccess 
+1950
+add the another project as PargatsBooks.Models and run the project 
