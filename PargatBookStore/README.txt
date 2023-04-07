@@ -73,4 +73,8 @@ delete the class.cs folder from three projects
 2022
 Cut the models folder and paste it into thee PargatBooks.Models
 edit the name of models ro ViewModels
-
+2030
+Edit the error.csHtml 
+add a new SD class in the utility folder
+2040
+add new area as Customer in the area folder
