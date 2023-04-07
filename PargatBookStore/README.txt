@@ -101,6 +101,7 @@ update-database
 Added the Category.cs class in the models folder.
 add-migration AddCategoryToDb
 update-database
-
+2058
+****************
 added the  Repository folder in the dataaccess folder 
 and created the IRepostory folder in the repostory folder
