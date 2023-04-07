@@ -1,6 +1,6 @@
 using System;
 
-namespace PargatBookStore.Models
+namespace PargatBookStore.Models.ViewModels
 {
     public class ErrorViewModel
     {
