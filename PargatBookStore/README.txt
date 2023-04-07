@@ -72,4 +72,5 @@ modify the DbContext file
 delete the class.cs folder from three projects 
 2022
 Cut the models folder and paste it into thee PargatBooks.Models
+edit the name of models ro ViewModels
 
