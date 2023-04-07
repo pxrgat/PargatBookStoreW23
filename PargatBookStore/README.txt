@@ -70,4 +70,6 @@ Delete the migration Folder from data
 modify the DbContext file 
 2020
 delete the class.cs folder from three projects 
+2022
+Cut the models folder and paste it into thee PargatBooks.Models
 
