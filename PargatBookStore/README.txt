@@ -84,3 +84,10 @@ Drag the home folder into the folder
 edit the _viewstart.cshtml @{
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+2101
+ohh god Assignment 2 part 1 is completed finally ohh yesssss
+
+2023-04-06
+2111
+start work on the assignment 2 part 2
+edit the appsetting.json file 
