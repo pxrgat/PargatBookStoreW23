@@ -81,3 +81,6 @@ add new area as Customer in the area folder
 edit the HomeControllers.cs 
 2052
 Drag the home folder into the folder 
+edit the _viewstart.cshtml @{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
