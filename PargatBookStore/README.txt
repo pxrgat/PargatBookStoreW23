@@ -91,3 +91,6 @@ ohh god Assignment 2 part 1 is completed finally ohh yesssss
 2111
 start work on the assignment 2 part 2
 edit the appsetting.json file 
+2113
+Add Migration in the Power manager Console
+add-migration AddDefaultIdentityMigration
