@@ -94,3 +94,8 @@ edit the appsetting.json file
 2113
 Add Migration in the Power manager Console
 add-migration AddDefaultIdentityMigration
+update the database using 
+update-database
+
+2121
+Added the Category.cs class in the models folder.
