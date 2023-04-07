@@ -66,4 +66,6 @@ check it again . test in wow now its look nice
 2015
 cut the data folder and paste it in the PargatBooks.DataAccess
 Delete the migration Folder from data
+2015
+modify the DbContext file 
 
