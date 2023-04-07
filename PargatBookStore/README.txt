@@ -78,3 +78,6 @@ Edit the error.csHtml
 add a new SD class in the utility folder
 2040
 add new area as Customer in the area folder
+edit the HomeControllers.cs 
+2052
+Drag the home folder into the folder 
