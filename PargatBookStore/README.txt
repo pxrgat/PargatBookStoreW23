@@ -68,4 +68,6 @@ cut the data folder and paste it in the PargatBooks.DataAccess
 Delete the migration Folder from data
 2015
 modify the DbContext file 
+2020
+delete the class.cs folder from three projects 
 
