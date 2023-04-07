@@ -58,3 +58,12 @@ add a new project for testing wowww!!! its working
 add a new project as PargatsBooks.DataAccess 
 1950
 add the another project as PargatsBooks.Models and run the project 
+1955
+just run the project . Ohh!! saw dark text in nav bar it looks bad so 
+I remove the dark text from both _layout.cshtml and _layoutPartial.cshtml and 
+check it again . test in wow now its look nice
+
+2015
+cut the data folder and paste it in the PargatBooks.DataAccess
+Delete the migration Folder from data
+
