@@ -189,3 +189,10 @@ and created the IRepostory folder in the repostory folder
  1830
  edit the ICategoryResopitory file 
  edit the code as given instructions.
+
+ 1841
+ created a new folder as Category in the area>admin>views
+ created a class in category folder named index.cshtml
+ 
+ ~/Views/Shared/_Layout.cshtml
+ update the Navigation bar in the Layout.cshtml
