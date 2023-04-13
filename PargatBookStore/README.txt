@@ -105,3 +105,14 @@ update-database
 ****************
 added the  Repository folder in the dataaccess folder 
 and created the IRepostory folder in the repostory folder
+ 
+ 2023-13-04
+ 1430
+ started the work again
+ clone the github with file pargatbooksw23
+ test the project ohhhhhhhhhhhh! got error links are not working
+ 1500
+ ohh  yesssss find the solution 
+ I was missing two files in the main project 
+ _viewImport.cshtml
+ _viewstart.cshtml
