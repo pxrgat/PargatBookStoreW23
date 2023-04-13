@@ -196,3 +196,16 @@ and created the IRepostory folder in the repostory folder
  
  ~/Views/Shared/_Layout.cshtml
  update the Navigation bar in the Layout.cshtml
+
+ 1905
+create the category.js file in the wwwroot>js folder
+added two icons , Edit, Create and Delete in the category files
+Added new view as Upsert.cshtml
+Created partial view fot the Edit/back in the view>Shared folder
+* _CreateAndBackToListButton.cshtml
+*_EditAndBackToListButton.cshtml
+
+
+ 1920
+edit the asp-action in the index.cshtmal file 
+edit these as per the instructions
