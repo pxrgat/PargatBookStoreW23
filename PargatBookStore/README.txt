@@ -174,3 +174,6 @@ and created the IRepostory folder in the repostory folder
 
  1545
  Created IunitofWork.cs file in the Repository folder
+
+ 1805
+ Created the UnitOfWork.cs file in the repositort folder and edit it 
