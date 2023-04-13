@@ -171,3 +171,6 @@ and created the IRepostory folder in the repostory folder
  1533
  delete the dynamicparameter files
  and edit the ISP_Call.cs
+
+ 1545
+ Created IunitofWork.cs file in the Repository folder
