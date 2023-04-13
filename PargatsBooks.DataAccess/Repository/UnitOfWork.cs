@@ -6,7 +6,7 @@ using System.Text;
 
 namespace PargatBooks.DataAccess.Repository
 {
-    public class UnitOfWork
+    public class UnitOfWork: IUnitOfWork
     {
         private readonly ApplicationDbContext _db;
 

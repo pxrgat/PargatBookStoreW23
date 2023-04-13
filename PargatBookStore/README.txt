@@ -177,3 +177,6 @@ and created the IRepostory folder in the repostory folder
 
  1805
  Created the UnitOfWork.cs file in the repositort folder and edit it 
+
+ 1809
+ edit the startup.cs file and created public classes and interfaces
