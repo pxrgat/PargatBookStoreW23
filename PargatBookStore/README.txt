@@ -179,4 +179,13 @@ and created the IRepostory folder in the repostory folder
  Created the UnitOfWork.cs file in the repositort folder and edit it 
 
  1809
- edit the startup.cs file and created public classes and interfaces
+ edit the startup.cs file and 
+ created public classes and interfaces
+
+ 1822
+ add a new controller in the area>admin>controller as CategoryController.cs
+ edit the CategoryController
+
+ 1830
+ edit the ICategoryResopitory file 
+ edit the code as given instructions.
