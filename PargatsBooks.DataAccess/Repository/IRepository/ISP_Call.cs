@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Dapper;
 
 namespace PargatBooks.DataAccess.Repository.IRepository
 {
