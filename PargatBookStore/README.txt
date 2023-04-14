@@ -250,3 +250,16 @@ Assignment 2 Part 3
  edit the applicationDbContext.cs file 
 
  add the migrations and update the database
+ 20230414192250_AddCoverTypeToDb
+
+ **********2023-04-14*********
+ 1924
+ Start the work on project again
+ 
+
+ Create a new Class innto the Repository Folder as CoverTypeRepository
+ edit the CoverTypeRepository as peer instructions
+
+ 
+ create a new interface into the IRepository folder as ICoverTypeRepository
+ and edit it as per instructions
