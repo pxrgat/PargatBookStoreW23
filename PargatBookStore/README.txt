@@ -216,3 +216,9 @@ using PargatBookStore.DataAccess.Data;
 Repository.cs
 CategoryRepository.cs
 SP_Call.cs
+
+
+2023
+edit the catejory.js file 
+regarding instructions
+replace the Upsert with Delete in line 23 in Category.js
