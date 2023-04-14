@@ -270,3 +270,6 @@ Assignment 2 Part 3
 
  Modify the UnitOfWorks.cs file 
  public ICoverTypeRepository CoverType { get; private set; }
+
+ 1945
+ Updated the database Successfully!!!!!!
