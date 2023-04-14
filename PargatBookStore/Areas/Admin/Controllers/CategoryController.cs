@@ -22,6 +22,7 @@ namespace PargatBookStore.Areas.Admin.Controllers
             return View();
         }
 
+
         public IActionResult Upsert(int? id)
         {
             Category category = new Category();
@@ -35,8 +36,10 @@ namespace PargatBookStore.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            return View();
+            return View(category);
         }
+
+
         [HttpPost]
         [ValidateAntiForgeryToken]
 
@@ -62,7 +65,6 @@ namespace PargatBookStore.Areas.Admin.Controllers
             return View(category);
         }
 
-
         #region API CALLS
         [HttpGet]
 
@@ -74,7 +76,20 @@ namespace PargatBookStore.Areas.Admin.Controllers
         }
 
 
+        [HttpDelete]
 
+        public IActionResult Delete(int id)
+        {
+            var objFromDb = _unitOfWork.Category.Get(id);
+            if (objFromDb == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+            _unitOfWork.Category.Remove(objFromDb);
+            _unitOfWork.Save();
+            return Json(new { success = true, message = "Delete successful" });
+
+        }
 
 
         #endregion
