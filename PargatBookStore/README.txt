@@ -209,3 +209,10 @@ Created partial view fot the Edit/back in the view>Shared folder
  1920
 edit the asp-action in the index.cshtmal file 
 edit these as per the instructions
+
+1950
+edit dataAccess
+using PargatBookStore.DataAccess.Data;
+Repository.cs
+CategoryRepository.cs
+SP_Call.cs
