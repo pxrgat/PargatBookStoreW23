@@ -222,3 +222,15 @@ SP_Call.cs
 edit the catejory.js file 
 regarding instructions
 replace the Upsert with Delete in line 23 in Category.js
+
+
+
+2030
+add the delete Method CatagoryController.cs file and
+test the project ....... wowwwww its running
+for testing 
+add the categories and edit them amd delete them all things are good 
+yes!!!!!!!
+Successfully compeleted the Assignment 2 part 2
+
+moved to the next part
