@@ -1,6 +1,7 @@
-﻿using PargatBooks.DataAccess.Repository.IRepository;
+﻿
+using PargatBooks.DataAccess.Repository.IRepository;
 using PargatBooks.Models;
-using PargatBookStore.Data;
+using PargatBookStore.DataAccess.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,7 +25,7 @@ namespace PargatBooks.DataAccess.Repository
             if (objFromDb != null)
             {
                 objFromDb.Name = category.Name;
-                _db.SaveChanges();
+                // _db.SaveChanges();
 
             }
         }

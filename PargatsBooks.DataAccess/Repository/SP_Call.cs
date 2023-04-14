@@ -2,7 +2,7 @@
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using PargatBooks.DataAccess.Repository.IRepository;
-using PargatBookStore.Data;
+using PargatBookStore.DataAccess.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;

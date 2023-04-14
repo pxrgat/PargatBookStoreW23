@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PargatBooks.DataAccess.Repository;
 using PargatBooks.DataAccess.Repository.IRepository;
-using PargatBookStore.Data;
+using PargatBookStore.DataAccess.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;

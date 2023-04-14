@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PargatBookStore.Data
+namespace PargatBookStore.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

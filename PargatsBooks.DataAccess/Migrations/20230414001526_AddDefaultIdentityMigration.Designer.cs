@@ -5,13 +5,13 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using PargatBookStore.Data;
+using PargatBookStore.DataAccess.Data;
 
 namespace PargatBooks.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230407012739_AddCategoryToDb")]
-    partial class AddCategoryToDb
+    [Migration("20230414001526_AddDefaultIdentityMigration")]
+    partial class AddDefaultIdentityMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
