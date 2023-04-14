@@ -263,3 +263,10 @@ Assignment 2 Part 3
  
  create a new interface into the IRepository folder as ICoverTypeRepository
  and edit it as per instructions
+
+ 1940
+ Modify the IUnitOfWorks.cs file 
+ ICoverTypeRepository CoverType { get; }
+
+ Modify the UnitOfWorks.cs file 
+ public ICoverTypeRepository CoverType { get; private set; }
