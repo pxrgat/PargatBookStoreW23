@@ -240,3 +240,7 @@ moved to the next part
  2130
  aded the class in the model folder
  added a class to the models folder named CoverType.cs
+
+ **********2023-04-14*********
+ Start the project again run it
+ edit the applicationDbContext.cs file 
