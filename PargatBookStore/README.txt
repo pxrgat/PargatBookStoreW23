@@ -234,3 +234,9 @@ yes!!!!!!!
 Successfully compeleted the Assignment 2 part 2
 
 moved to the next part
+
+
+**********2023-04-13*********
+ 2130
+ aded the class in the model folder
+ added a class to the models folder named CoverType.cs
