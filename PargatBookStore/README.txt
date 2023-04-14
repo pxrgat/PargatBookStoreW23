@@ -237,6 +237,10 @@ moved to the next part
 
 
 **********2023-04-13*********
+
+Assignment 2 Part 3
+
+
  2130
  aded the class in the model folder
  added a class to the models folder named CoverType.cs
@@ -244,3 +248,5 @@ moved to the next part
  **********2023-04-14*********
  Start the project again run it
  edit the applicationDbContext.cs file 
+
+ add the migrations and update the database
