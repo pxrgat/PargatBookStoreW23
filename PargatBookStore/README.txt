@@ -273,3 +273,7 @@ Assignment 2 Part 3
 
  1945
  Updated the database Successfully!!!!!!
+
+ 1950
+ edit the layout.cs with
+ <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">CoverType</a>
