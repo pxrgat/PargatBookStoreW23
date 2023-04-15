@@ -298,3 +298,11 @@ add a new class into the PargatBooks.Models as Product.cs
 edit Product.cs as per instructions
 
 edit the ApplicationDbContext.cs as per instructions 
+
+2105
+added migrations
+20230415010514_AddProductToDb
+20230415010514_AddProductToDb.Designer
+
+update the database
+successfully
