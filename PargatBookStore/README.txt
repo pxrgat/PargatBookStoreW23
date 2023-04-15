@@ -285,3 +285,7 @@ Run the project wow Everything is good No issue found
 
 2000
 add a new class covertype.js into wwwroot folder and run the project no issue found
+
+2012
+add anew controller in areas>admin>controller as CoverTypeController
+edit the code as per instructions
