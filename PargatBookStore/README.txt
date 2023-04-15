@@ -257,8 +257,8 @@ Assignment 2 Part 3
  Start the work on project again
  
 
- Create a new Class innto the Repository Folder as CoverTypeRepository
- edit the CoverTypeRepository as peer instructions
+ Create a new Class into the Repository Folder as CoverTypeRepository
+ edit the CoverTypeRepository as per instructions
 
  
  create a new interface into the IRepository folder as ICoverTypeRepository
@@ -306,3 +306,19 @@ added migrations
 
 update the database
 successfully
+
+2110
+Create a new Class into the Repository Folder as ProductRepository
+ edit the ProductRepository as per instructions
+
+ 
+ create a new interface into the IRepository folder as ProductRepository
+ and edit ProductRepository as per instructions
+
+ 2115
+ Modify the IUnitOfWorks.cs file 
+ ProductRepository CoverType { get; }
+
+ Modify the UnitOfWorks.cs file 
+ public ProductRepository CoverType { get; private set; }
+
