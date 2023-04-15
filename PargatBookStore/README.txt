@@ -287,5 +287,8 @@ Run the project wow Everything is good No issue found
 add a new class covertype.js into wwwroot folder and run the project no issue found
 
 2012
-add anew controller in areas>admin>controller as CoverTypeController
+add a new controller in areas>admin>controller as CoverTypeController
 edit the code as per instructions
+
+2025
+added new view as Upsert.cshtml in the area >> admin >> view >> covertype folder
