@@ -292,3 +292,9 @@ edit the code as per instructions
 
 2025
 added new view as Upsert.cshtml in the area >> admin >> view >> covertype folder
+
+2055
+add a new class into the PargatBooks.Models as Product.cs
+edit Product.cs as per instructions
+
+edit the ApplicationDbContext.cs as per instructions 
