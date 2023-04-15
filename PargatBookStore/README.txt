@@ -277,3 +277,11 @@ Assignment 2 Part 3
  1950
  edit the layout.cs with
  <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">CoverType</a>
+
+ 1957
+ create a new folder in Area>Admin>View as CoverType
+add the view into the Covertype Folder as Index.cshtml
+Run the project wow Everything is good No issue found
+
+2000
+add a new class covertype.js into wwwroot folder and run the project no issue found
