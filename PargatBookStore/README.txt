@@ -340,3 +340,6 @@ reate a new Class into the Repository Folder as ProductRepository
 
  modification in unitofwork
  make the file of upsert.cshtml for product
+ 1444
+ edit the Upsert.cshtml
+ oops!!! the product page is not opening
