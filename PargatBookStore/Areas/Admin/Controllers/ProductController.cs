@@ -43,7 +43,7 @@ namespace PargatBookStore.Areas.Admin.Controllers
         }
 
         //Use HTTP POST to define the post-action method
-        /*[HttpPost]
+        [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Upsert(Product product)
         {
@@ -61,7 +61,7 @@ namespace PargatBookStore.Areas.Admin.Controllers
                 return RedirectToAction(nameof(Index)); //To see all the Categories
             }
             return View(product);
-        }*/
+        }
 
 
 

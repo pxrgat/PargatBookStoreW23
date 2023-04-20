@@ -322,3 +322,21 @@ Create a new Class into the Repository Folder as ProductRepository
  Modify the UnitOfWorks.cs file 
  public ProductRepository CoverType { get; private set; }
 
+ 2140
+create a new folder in Area>Admin>View as Product
+add the view into the Product Folder as Index.cshtml
+Run the project wow Everything is good No issue found
+
+reate a new Class into the Repository Folder as ProductRepository
+ edit the ProductRepository as per instructions
+
+ 
+ create a new interface into the IRepository folder as ProductRepository
+ and edit ProductRepository as per instructions
+
+ 2023-04-20
+ 1435
+ start again 
+
+ modification in unitofwork
+ make the file of upsert.cshtml for product
